@@ -18,5 +18,5 @@ el viaje.
 
 #Construido con
 
--Angular JS
--HTML
+*Angular JS
+*HTML
