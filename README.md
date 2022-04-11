@@ -1,4 +1,4 @@
-#API Trip Manager Frontend
+## API Trip Manager Frontend
 
 Esta es una aplicación que simula el comportamiento de un gestor de viajes, permitiendo seleccionar una ciudad de destino, 
 una fecha de salida y tipo de vehículo a utilizar, la misma alertará al usuario sobre condiciones del clima desfavorables antes de guardar cambios para poder reprogramar
