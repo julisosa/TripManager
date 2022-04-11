@@ -6,7 +6,7 @@ el viaje.
 
 ---
 
-#Capturas
+## Capturas
 
 ![Screenshot_192](https://user-images.githubusercontent.com/92226308/162649595-812a5843-9e80-4b59-a4ff-e7444a0a1a7b.png)
 
@@ -16,5 +16,5 @@ el viaje.
 
 ---
 
-#Construido con
+## Construido con
 
