@@ -1,17 +1,17 @@
 ## API Trip Manager Frontend
 
-Esta es una aplicación que simula el comportamiento de un gestor de viajes, permitiendo seleccionar una ciudad de destino, 
-una fecha de salida y tipo de vehículo a utilizar, la misma alertará al usuario sobre condiciones del clima desfavorables antes de guardar cambios para poder reprogramar
-el viaje.
+Esta es una aplicación que simula el comportamiento de un gestor de viajes, consta de tres diferentes endpoints con los cuales se puede crear ciudades, tipos de vehículo con su patente y marca, y generar viajes con estos mismos datos los cuales se guardan en una base de datos.
 
 ## Capturas
 
-![Screenshot_192](https://user-images.githubusercontent.com/92226308/162649595-812a5843-9e80-4b59-a4ff-e7444a0a1a7b.png)
+![Screenshot_195](https://user-images.githubusercontent.com/92226308/162650811-91d53a43-7223-4819-af25-dead1e802064.png)
 
-![Screenshot_193](https://user-images.githubusercontent.com/92226308/162649606-68f8c554-ae7a-4a52-ae94-b4db6dfc0354.png)
 
-![Screenshot_194](https://user-images.githubusercontent.com/92226308/162649611-3e710c19-52b9-409b-930d-4922f95fd674.png)
+![Screenshot_196](https://user-images.githubusercontent.com/92226308/162650813-513abf5a-f234-4122-b066-48194b244f90.png)
 
 ## Construido con
 
-* [Angular JS](https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js)
+* [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
+* [EntityFrameworkCore](https://entityframeworkcore.com/)
+* [SQL Server 2019](https://www.microsoft.com/es-es/sql-server/sql-server-2019)
+* [Swagger](https://swagger.io/)
